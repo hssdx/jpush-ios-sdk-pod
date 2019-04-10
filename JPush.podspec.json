@@ -18,7 +18,7 @@
     "http": "https://sdkfiledl.jiguang.cn/cocoapods/jpush/JPush-iOS-3.0.9.zip"
   },
   "source_files": "lib/*.h",
-  "vendored_libraries": "lib/*.a",
+  "vendored_libraries": "lib/libjpush-ios-3.0.0.a",
   "frameworks": [
     "UIKit",
     "CFNetwork",
